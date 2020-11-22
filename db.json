@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -10,7 +11,8 @@
       "id": 2
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +23,63 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "name": "mark",
+      "email": "mark@aol.com",
+      "id": 1
+    },
+    {
+      "name": "mark",
+      "email": "mark@aol.com",
+      "id": 2
+    },
+    {
+      "name": "mark",
+      "email": "mark@aol.com",
+      "id": 3
+    },
+    {
+      "name": "mark",
+      "email": "mark@aol.com",
+      "id": 4
+    },
+    {
+      "name": "mark",
+      "email": "mark@aol.com",
+      "id": 5
+    },
+    {
+      "name": "mark",
+      "email": "mark@aol.com",
+      "id": 6
+    },
+    {
+      "name": "mark",
+      "email": "mark@aol.com",
+      "id": 7
+    },
+    {
+      "name": "mark",
+      "email": "mark@aol.com",
+      "id": 8
+    },
+    {
+      "name": "mark",
+      "email": "mark@aol.com",
+      "id": 9
+    },
+    {
+      "name": "mark",
+      "email": "mark@aol.com",
+      "id": 10
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
